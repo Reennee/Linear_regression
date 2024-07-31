@@ -1,0 +1,19 @@
+name: student_performance_app
+description: A new Flutter project to interact with FastAPI
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  provider: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # Add other dev dependencies here if needed
+
+flutter:
+  uses-material-design: true
